@@ -4,3 +4,4 @@ InstallationSteps
 ModelFeatures
 RequiredLibraries
 TrainingExamples
+ModelConfiguration
