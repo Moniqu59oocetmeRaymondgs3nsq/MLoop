@@ -5,3 +5,4 @@ ModelFeatures
 RequiredLibraries
 TrainingExamples
 ModelConfiguration
+ContributionGuidelines
