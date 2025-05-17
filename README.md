@@ -6,3 +6,4 @@ RequiredLibraries
 TrainingExamples
 ModelConfiguration
 ContributionGuidelines
+ErrorResolution
