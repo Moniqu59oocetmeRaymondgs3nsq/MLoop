@@ -7,3 +7,4 @@ TrainingExamples
 ModelConfiguration
 ContributionGuidelines
 ErrorResolution
+LicenseInformation
