@@ -9,3 +9,4 @@ ContributionGuidelines
 ErrorResolution
 LicenseInformation
 MLFrequentlyAskedQuestions
+VersionHistory
